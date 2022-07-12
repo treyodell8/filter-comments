@@ -1,0 +1,31 @@
+h1 {
+    text-align: center;
+    color: skyblue;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+#form {
+    text-align:center;
+    border-bottom: 2px solid skyblue;
+}
+
+#comments {
+    padding-top: 3rem;
+}
+
+#submitBtn {
+    color: blue;
+}
+
+#submitBtn:hover {
+    transform: rotate3d();
+}
+
+.individualComment {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size:larger;
+    text-align: center;
+    text-decoration: underline;
+    text-decoration-color: skyblue;
+    padding: 1rem;
+}
